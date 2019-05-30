@@ -1,5 +1,5 @@
 # GnuPG
 GnuPG config and public keys
 
-## Publuc Key
+## Public Key
 - [0x1CF63A7A05B3E301](D33193093A174C67A14718671CF63A7A05B3E301.pub.asc)
